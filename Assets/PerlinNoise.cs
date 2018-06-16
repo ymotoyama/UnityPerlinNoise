@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 
+// https://postd.cc/understanding-perlin-noise/
+// のサイト様を参考にほぼそのまま実装
 public static class PerlinNoise 
 {
     // 乱数テーブル。
